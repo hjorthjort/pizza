@@ -1,3 +1,5 @@
+#PIZZA - The best random pizza generato
+
 Install with homebrew
 =================
 
