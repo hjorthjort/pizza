@@ -1,6 +1,7 @@
 #PIZZA - Your pizza generator
 
-This is a small python script that generates a pizza for you with by randomly picking components and adds them togeather
+This is a small python script that generates a pizza for you with by randomly picking components and adds them togeather.
+It also gives it a fancy name.
 
 ##Dependencies
 -----------
